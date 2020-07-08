@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Covid19 Updates</string>
+    <string name="all_countries_data">All Countries Data</string>
+    <string name="cases">Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="active">Active</string>
+    <string name="critical">Critical</string>
+
+    <string name="global_stats">global stats</string>
+    <string name="today_deaths">Today Deaths</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="search_country_here">Search Country Here</string>
+    <string name="continent">Continent</string>
+    <string name="today_recovered">Today Recovered</string>
+    <string name="cases_per_million">Cases Per Million</string>
+    <string name="bottom_copyright">2020 © Vikas Patel</string>
+</resources>
