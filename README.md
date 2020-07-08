@@ -8,7 +8,16 @@ The application refreshes every 10 minutes.
 
 Check the release folder for latest releases.
 
-[Click Here](https://github.com/vikaspatelp83/covid19updates/tree/master/release)
+**[Click Here](https://github.com/vikaspatelp83/covid19updates/tree/master/release)**
+
+##### OR  
+1. Go to release section of the repository **[from here](https://github.com/vikaspatelp83/covid19updates/releases)**. 
+2. Download the `zip/tar.gz`.  
+3. Extract the  `zip/tar.gz` and install `covid19-Updates.apk` on your phone.
+
+##### OR
+Click the link below   
+**[DOWNLOAD](https://github.com/vikaspatelp83/covid19updates/raw/master/release/v1.0/Covid19-Updates-v1.0.apk)**
 
 # Api
 I've used the following api   
