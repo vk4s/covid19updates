@@ -12,7 +12,7 @@ Check the release folder for latest releases.
 
 ##### OR  
 1. Go to release section of the repository **[from here](https://github.com/vikaspatelp83/covid19updates/releases)**. 
-2. Download the `zip/tar.gz`.  
+2. Download the `zip/tar.gz`.   
 3. Extract the  `zip/tar.gz` and install `covid19-Updates.apk` on your phone.
 
 ##### OR
