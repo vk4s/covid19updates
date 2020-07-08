@@ -3,7 +3,6 @@ Android application for tracking worldwide covid19 cases.
 
 The application refreshes every 10 minutes.
 
-
 # Download 
 
 Check the release folder for latest releases.
@@ -27,16 +26,24 @@ I've used the following api
 # App Screenshots
 
 ## Home 
-![Details](release/screenshots/home.jpg)
+<img src="release/screenshots/home.jpg" width="40%" alt ="App Home">
+
+<!-- ![App Home](release/screenshots/home.jpg) -->
 
 ## Country List 
-![Details](release/screenshots/list.jpg)
+<img src="release/screenshots/list.jpg" width="40%" alt="Country List">
+
+<!-- ![List](release/screenshots/list.jpg) -->
 
 ## Search Country 
-![Details](release/screenshots/search.jpg)
+<img src="release/screenshots/search.jpg" width="40%" alt="Country Search">
+
+<!-- ![Search](release/screenshots/search.jpg) -->
 
 ## Country Details 
-![Details](release/screenshots/detail.jpg)
+<img src="release/screenshots/detail.jpg" width="40%" alt="Country Details">
+
+<!-- ![Details](release/screenshots/detail.jpg) -->
 
 
 
